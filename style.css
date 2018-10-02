@@ -1,0 +1,68 @@
+body {
+	background-image: url(images/back.jpg);
+
+	font-family:Verdana, Arial, Helvetica, sans-serif
+	font-size:10px;
+	background-color: #000000;
+}
+.main_table {
+	font-family:Verdana, Arial, Helvetica, sans-serif
+	font-size:10px;
+	background-color: #FFFFFF;
+	border: 1px solid #FFFFFF;
+	width: 900px;
+}
+
+table {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #333333;
+	background-color:#FFFFFF;
+	height: 30px;
+}
+
+.padding {
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+.text_area {
+	width: 200px;
+}
+
+.writing {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+.tabel_tgl {
+	font-size: 14px;
+	background-color: #CCCCCC;
+	width: 170px;
+	color: #333333;
+	text-align: center;
+	height: 20px;
+	vertical-align: middle;
+	letter-spacing: normal;
+}
+
+
+.header_style {
+    background-color:#AF0C03;
+	color:#FFFFFF;
+	font-weight:normal;
+}
+
+.alternate_style {
+    background-color: #CCCCCC;
+}
+.table_back {
+	font-size: 12px;
+	background-color: #EAEAEA;
+}
+.text_area2 {
+	height: 100px;
+	width: 300px;
+}

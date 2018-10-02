@@ -1,0 +1,1 @@
+<img src="images/header.gif" width="900" height="100" />
